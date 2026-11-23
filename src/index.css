@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Outfit", system-ui, -apple-system, sans-serif;
+  --font-sans: "Manrope", system-ui, -apple-system, sans-serif;
+
+  --color-obsidian: #050608;
+  --color-carbon: #0A0D12;
+  --color-graphite: #171C23;
+  --color-silver: #D8DEE5;
+  --color-frost: #F5F7FA;
+  --color-orange-electric: #FF5A1F;
+  --color-orange-luminous: #FF7A32;
+  --color-ice: #7DEBFF;
+  --color-blue-electric: #42BFFF;
+}
+
+:root {
+  color-scheme: dark;
+  --bg-obsidian: #050608;
+  --bg-carbon: #0A0D12;
+  --bg-graphite: #171C23;
+  --text-frost: #F5F7FA;
+  --text-silver: #D8DEE5;
+  --accent-orange: #FF5A1F;
+  --accent-orange-glow: #FF7A32;
+  --accent-ice: #7DEBFF;
+  --accent-blue: #42BFFF;
+}
+
+html {
+  background-color: #050608;
+  color: #F5F7FA;
+  font-family: var(--font-sans);
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background-color: #050608;
+  color: #F5F7FA;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-display);
+}
+
+/* Brushed metallic text gradient treatment */
+.text-metallic {
+  background: linear-gradient(135deg, #F5F7FA 0%, #D8DEE5 45%, #8E98A8 75%, #F5F7FA 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.text-metallic-orange {
+  background: linear-gradient(120deg, #F5F7FA 0%, #FF7A32 48%, #FF5A1F 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.text-metallic-ice {
+  background: linear-gradient(120deg, #F5F7FA 0%, #7DEBFF 55%, #42BFFF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Brushed dark steel surface */
+.surface-steel {
+  background: linear-gradient(145deg, rgba(23, 28, 35, 0.85) 0%, rgba(10, 13, 18, 0.96) 100%);
+  border: 1px solid rgba(216, 222, 229, 0.1);
+}
+
+.surface-chrome-edge {
+  box-shadow:
+    inset 0 1px 0 0 rgba(245, 247, 250, 0.14),
+    0 24px 48px -18px rgba(0, 0, 0, 0.8);
+}
+
+/* Subtle horizontal light beams inspired by industrial optics */
+.beam-ice {
+  background: linear-gradient(90deg, transparent 0%, rgba(125, 235, 255, 0.55) 50%, transparent 100%);
+}
+
+.beam-orange {
+  background: linear-gradient(90deg, transparent 0%, rgba(255, 90, 31, 0.65) 50%, transparent 100%);
+}
+
+/* Focus rings for keyboard accessibility */
+:focus-visible {
+  outline: 2px solid #7DEBFF;
+  outline-offset: 3px;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050608;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #171C23;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2A323F;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

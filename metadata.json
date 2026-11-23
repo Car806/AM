@@ -1,0 +1,8 @@
+{
+  "name": "A tu manera digital",
+  "description": "Estudio digital independiente especializado en diseño y desarrollo de páginas web a medida para negocios, marcas y profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

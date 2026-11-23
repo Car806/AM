@@ -1,0 +1,921 @@
+# MASTER PROMPT — A TU MANERA DIGITAL
+## Desarrollo de una experiencia web cinematográfica, premium e inmersiva
+
+Actúa como un equipo multidisciplinario compuesto por:
+
+- Un director creativo digital especializado en experiencias premium.
+- Un diseñador UX/UI de alto nivel especializado en diseño editorial, brutalismo refinado y estética tecnológica.
+- Un director de arte 3D especializado en iluminación cinematográfica, materiales metálicos y composición visual.
+- Un desarrollador frontend senior experto en React, TypeScript, animaciones avanzadas y experiencias interactivas.
+- Un especialista en CRO (Conversion Rate Optimization), SEO técnico, accesibilidad y rendimiento web.
+
+Tu misión es DISEÑAR Y CONSTRUIR una landing page profesional para mi marca **A tu manera digital**, un estudio que ofrece diseño y desarrollo de páginas web para negocios de distintos sectores.
+
+No quiero una plantilla convencional de agencia digital. Quiero una experiencia web memorable, inmersiva, visualmente sofisticada y técnicamente sólida, que transmita desde los primeros segundos que somos capaces de crear páginas web de alto nivel.
+
+No te limites a darme ideas, una propuesta visual, una explicación o un prototipo estático. Implementa la aplicación funcional completa en el entorno disponible.
+
+---
+
+# 1. CONCEPTO CREATIVO
+
+Nombre de marca: A tu manera digital.
+
+Actividad: Diseño y desarrollo de páginas web para negocios, marcas, profesionales y empresas.
+
+Objetivos principales:
+
+1. Convertir visitantes en clientes potenciales mediante WhatsApp.
+2. Mostrar exclusivamente proyectos reales realizados por la marca.
+3. Transmitir profesionalidad, creatividad, calidad técnica y diferenciación.
+4. Demostrar visualmente la capacidad del estudio para crear experiencias web personalizadas.
+5. Construir una identidad reconocible, elegante y consistente.
+
+## Idea central
+
+La página debe sentirse como una experiencia digital cinematográfica que evoluciona al desplazarse.
+
+El visitante no debe sentir que está leyendo una página comercial convencional. Debe experimentar una secuencia de escenas cuidadosamente diseñadas, con profundidad, iluminación, transiciones y elementos que reaccionan al scroll.
+
+La narrativa visual debe comunicar esta idea:
+
+**No hacemos páginas web para llenar internet. Creamos experiencias digitales diseñadas para hacer destacar a cada negocio.**
+
+La estética debe recordar a una producción visual de un estudio creativo de primer nivel: iluminación controlada, materiales físicamente creíbles, sombras profundas, movimientos suaves y composiciones precisas.
+
+No copies directamente el diseño de ninguna web existente. Utiliza las referencias visuales adjuntas como inspiración estética y desarrolla una identidad propia para A tu manera digital.
+
+---
+
+# 2. DIRECCIÓN DE ARTE Y SISTEMA VISUAL
+
+## Paleta cromática
+
+Construye un sistema visual basado en:
+
+- Negro profundo: #050608.
+- Negro carbón: #0A0D12.
+- Gris grafito: #171C23.
+- Plata metálica: #D8DEE5.
+- Blanco frío: #F5F7FA.
+- Naranja eléctrico: #FF5A1F.
+- Naranja luminoso: #FF7A32.
+- Azul hielo: #7DEBFF.
+- Azul eléctrico secundario: #42BFFF.
+
+El negro debe dominar la experiencia. El naranja y el azul deben utilizarse como fuentes de luz, reflejos, líneas, acentos interactivos y detalles de composición.
+
+No conviertas toda la página en una interfaz de neón. El lujo visual surge del contraste entre zonas oscuras, superficies neutras y puntos de luz cuidadosamente colocados.
+
+Mantén una jerarquía cromática consistente:
+
+- Naranja: energía, acción, llamadas a la acción y momentos clave.
+- Azul hielo: tecnología, profundidad, líneas de luz y transiciones.
+- Plata: materiales, superficies tridimensionales y elementos arquitectónicos.
+- Blanco: textos principales y elementos de máxima legibilidad.
+
+## Materiales y superficies
+
+Utiliza, cuando aporten valor:
+
+- Cromo cepillado.
+- Aluminio pulido.
+- Superficies de metal líquido.
+- Vidrio ahumado.
+- Acrílico translúcido.
+- Cristal oscuro.
+- Gradientes volumétricos.
+- Reflejos especulares.
+- Sombras suaves y profundas.
+- Iluminación lateral cinematográfica.
+- Haces de luz azul y naranja.
+- Partículas sutiles suspendidas en el espacio.
+
+Los materiales deben parecer tridimensionales y tener una iluminación coherente. Evita los efectos de plástico barato, los degradados excesivos y las texturas artificiales repetitivas.
+
+## Composición
+
+Prioriza:
+
+- Espacio negativo generoso.
+- Tipografía de gran formato.
+- Composiciones asimétricas intencionales.
+- Objetos 3D que atraviesen visualmente distintas secciones.
+- Perspectivas controladas.
+- Elementos parcialmente ocultos por los límites de pantalla.
+- Contrastes entre tipografía editorial y elementos tecnológicos.
+- Transiciones que conecten las escenas en lugar de separarlas abruptamente.
+
+No coloques todos los elementos dentro de tarjetas redondeadas. Alterna composiciones abiertas, escenas a pantalla completa, módulos editoriales, mockups y bloques tipográficos.
+
+El resultado debe sentirse diseñado por un director de arte, no ensamblado automáticamente por una plantilla.
+
+---
+
+# 3. HERO: UNA PRIMERA IMPRESIÓN CINEMATOGRÁFICA
+
+La primera pantalla es la parte más importante de la experiencia.
+
+Debe ocupar prácticamente toda la altura visible del navegador, con una composición inmersiva y un punto focal tridimensional.
+
+## Composición
+
+Crea una escena oscura con una escultura abstracta de metal pulido.
+
+La escultura puede componerse de varias placas metálicas superpuestas, superficies curvas, piezas geométricas flotantes o estructuras industriales futuristas.
+
+Debe tener:
+
+- Reflejos naranjas concentrados en un lateral.
+- Luz azul hielo desde el lado contrario.
+- Sombras profundas entre las superficies.
+- Reflejos especulares definidos.
+- Movimiento tridimensional lento.
+- Una sensación de escala y profundidad real.
+
+La escultura debe ser visualmente impactante, pero no competir con la legibilidad del mensaje.
+
+No uses una esfera genérica, una ilustración tecnológica de stock ni el típico planeta digital. Diseña una composición con carácter industrial, elegante y reconocible.
+
+Si Three.js o React Three Fiber están disponibles y pueden integrarse de forma estable, implementa la escena con geometrías, materiales e iluminación reales. Si no, utiliza una alternativa visual ligera mediante CSS, SVG o una imagen renderizada de alta calidad con movimientos de cámara simulados.
+
+No sacrifiques estabilidad ni rendimiento por utilizar 3D.
+
+## Texto principal
+
+Utiliza esta propuesta como punto de partida:
+
+Etiqueta superior:
+ESTUDIO DIGITAL INDEPENDIENTE
+
+Titular:
+
+"Tu negocio.
+Una web fuera
+de lo común."
+
+La palabra "web" puede tener un tratamiento tipográfico diferente, un reflejo metálico o un acento naranja muy sutil.
+
+Texto secundario:
+
+"Diseñamos experiencias digitales a medida para marcas y negocios que quieren destacar, conectar con sus clientes y crecer en internet."
+
+Botón principal:
+"Quiero mi página web"
+
+Botón secundario:
+"Explorar proyectos"
+
+Añade una pequeña indicación visual de scroll, elegante y animada, sin utilizar las flechas gigantes habituales en plantillas.
+
+## Animaciones del hero
+
+1. Entrada inicial con una transición cinematográfica, sin flashes agresivos.
+2. Aparición escalonada de la etiqueta, el titular, el texto y los botones.
+3. Movimiento muy lento del objeto tridimensional.
+4. Reflejos de luz que cambian sutilmente.
+5. Desplazamiento de cámara o paralaje suave.
+6. Al comenzar el scroll, el objeto puede rotar, desplazarse o aumentar de escala mientras el titular pierde protagonismo.
+7. La luz naranja debe dejar una estela muy sutil, no una línea decorativa permanente que distraiga.
+
+La primera escena debe sentirse cuidadosamente producida. No llenes el hero de partículas, indicadores, botones y textos secundarios.
+
+---
+
+# 4. SCROLL NARRATIVO: LA WEB COMO UNA SECUENCIA DE ESCENAS
+
+El scroll es una parte fundamental del concepto.
+
+Diseña la experiencia como una narración visual en la que cada sección tiene una función y una identidad propia.
+
+No quiero que todos los elementos aparezcan simplemente con un fade-in al entrar en pantalla.
+
+Utiliza una combinación de:
+
+- Transformaciones de escala.
+- Rotaciones tridimensionales.
+- Desplazamientos de cámara.
+- Cambios de iluminación.
+- Máscaras de revelado.
+- Texto que aparece progresivamente.
+- Parallax de distintas profundidades.
+- Transiciones entre fondos.
+- Elementos que permanecen temporalmente fijos mientras cambia la escena.
+- Líneas de luz que conectan momentos concretos.
+- Animaciones vinculadas al progreso del scroll.
+
+Las escenas deben sentirse conectadas mediante un lenguaje visual común.
+
+Evita fijar demasiadas secciones simultáneamente. El visitante siempre debe poder avanzar de forma natural.
+
+Implementa las escenas fijadas con GSAP ScrollTrigger solo cuando aporten valor y libera los elementos al terminar cada secuencia.
+
+No bloquees el scroll nativo ni crees una navegación artificial que haga sentir que la página está atascada.
+
+---
+
+# 5. SECCIÓN 02 — EL CAMBIO DE ESCENA
+
+Al salir del hero, la escultura metálica debe transformarse visualmente o desplazarse hacia un lateral.
+
+La cámara debe dar la sensación de atravesar la composición, revelando una nueva escena.
+
+El fondo puede evolucionar desde negro absoluto hacia un grafito ligeramente iluminado.
+
+Aparece el mensaje:
+
+"Tu presencia digital
+merece algo mejor."
+
+Texto de apoyo:
+
+"Una página web no debería ser solamente una dirección en internet. Debe transmitir quién eres, qué ofreces y por qué tus clientes deberían elegirte."
+
+Resalta una palabra del titular mediante un reflejo de luz naranja o azul.
+
+La transición debe ser elegante, fluida y breve. No conviertas la sección en una introducción interminable.
+
+---
+
+# 6. SECCIÓN 03 — SERVICIOS
+
+Presenta los servicios de forma editorial y visual, evitando el formato genérico de tres tarjetas idénticas con iconos.
+
+Incluye estos servicios:
+
+### Diseño web personalizado
+Páginas creadas alrededor de la identidad, las necesidades y los objetivos de cada negocio.
+
+### Landing pages de conversión
+Páginas orientadas a presentar una oferta, generar contactos y facilitar la acción del usuario.
+
+### Webs para negocios
+Experiencias digitales para restaurantes, comercios, profesionales, empresas y otras marcas.
+
+### Rediseño y modernización
+Actualización visual y funcional de páginas web que necesitan una presencia digital más profesional.
+
+### Diseño adaptable
+Experiencias diseñadas para funcionar de manera coherente en móviles, tabletas y ordenadores.
+
+### Optimización de experiencia
+Mejora de la estructura, la claridad del contenido, la navegación y los puntos de conversión.
+
+No afirmes que todos los servicios incluyen SEO avanzado, mantenimiento, integraciones o funcionalidades especiales si no se han confirmado.
+
+## Tratamiento visual
+
+Cada servicio debe tener una composición distinta dentro del mismo sistema visual.
+
+Por ejemplo:
+
+- Una línea de luz que dibuja una estructura.
+- Una superficie metálica que se abre.
+- Una maqueta de navegador que aparece desde la oscuridad.
+- Un conjunto de planos que se alinean.
+- Una composición tipográfica que se reorganiza al desplazarse.
+
+Utiliza estas ideas como posibilidades creativas, no como efectos obligatorios en todas las tarjetas.
+
+El movimiento debe explicar o reforzar la idea del servicio.
+
+---
+
+# 7. SECCIÓN 04 — PORTAFOLIO DE PROYECTOS REALES
+
+Esta es una sección prioritaria.
+
+El portafolio debe demostrar el trabajo real de A tu manera digital y constituir una de las partes visualmente más atractivas de toda la página.
+
+## REGLA FUNDAMENTAL: NO INVENTAR PROYECTOS
+
+No inventes clientes, nombres de empresas, testimonios, resultados comerciales, estadísticas, premios ni proyectos supuestamente realizados por la marca.
+
+No presentes diseños generados por IA como si fueran trabajos reales.
+
+Si todavía no se han proporcionado proyectos, crea una estructura de portafolio preparada para recibirlos y muestra un estado vacío elegante. No rellenes el espacio con casos ficticios.
+
+El contenido de los proyectos debe estar organizado en datos editables, separados de los componentes visuales.
+
+Cada proyecto real podrá incluir:
+
+- Nombre del proyecto.
+- Tipo de negocio.
+- Descripción breve.
+- Capturas reales de la página.
+- Imagen de portada.
+- Tecnologías utilizadas, si se conocen.
+- Enlace al sitio publicado, cuando exista.
+- Desafío de diseño.
+- Solución implementada.
+- Funcionalidades desarrolladas.
+
+Muestra únicamente los campos disponibles y verificados.
+
+## Diseño de la sección
+
+Titular:
+
+"Trabajo real.
+Experiencias únicas."
+
+Texto secundario:
+
+"Cada proyecto tiene su propio carácter. Estas son algunas de las experiencias digitales que hemos creado."
+
+Si existen proyectos cargados, presenta entre dos y cuatro inicialmente, con la posibilidad de ampliar la colección.
+
+Utiliza mockups de navegador o dispositivos para mostrar capturas reales. Evita imágenes que no representen fielmente el proyecto.
+
+Los proyectos pueden aparecer como composiciones editoriales grandes, con tamaños variables y fondos oscuros.
+
+Al pasar el cursor, permite revelar información adicional, desplazar ligeramente el mockup o activar un reflejo de luz.
+
+Al hacer clic, abre el proyecto correspondiente o una página de caso de estudio.
+
+En móvil, todas las interacciones deben funcionar mediante toque, sin depender del hover.
+
+## Estado sin proyectos
+
+Si no hay proyectos disponibles, muestra un mensaje visualmente integrado:
+
+"Cada gran experiencia empieza con una idea."
+
+"Estamos preparando esta selección. Mientras tanto, cuéntanos qué tienes en mente y diseñemos tu próxima web."
+
+Incluye un botón que abra WhatsApp.
+
+No inventes contenido para ocultar la ausencia de proyectos.
+
+---
+
+# 8. SECCIÓN 05 — PROCESO DE TRABAJO
+
+Presenta un proceso claro y profesional que ayude al visitante a comprender cómo se desarrolla un proyecto.
+
+Titular:
+
+"De la idea
+a la experiencia."
+
+Incluye cuatro etapas:
+
+01 — Descubrimiento
+Entendemos el negocio, sus objetivos, su público y sus necesidades.
+
+02 — Dirección creativa
+Definimos la estructura, el estilo visual y la experiencia que mejor se adapta al proyecto.
+
+03 — Diseño y desarrollo
+Construimos la web cuidando el diseño, la navegación, la adaptación a dispositivos y las funcionalidades acordadas.
+
+04 — Publicación
+Preparamos la entrega y la puesta en marcha de acuerdo con el alcance contratado.
+
+## Animación
+
+Diseña una línea luminosa que conecte las cuatro etapas.
+
+La línea puede cambiar progresivamente de azul hielo a naranja conforme avanza el scroll.
+
+Cada etapa se activa al entrar en su zona de visualización.
+
+El diseño debe comunicar precisión, claridad y control.
+
+No uses barras de progreso genéricas ni animaciones que den la impresión de que el visitante está completando un formulario.
+
+---
+
+# 9. SECCIÓN 06 — DIFERENCIACIÓN
+
+Crea una escena tipográfica con mucho espacio negativo.
+
+Titular:
+
+"No necesitas una web más.
+Necesitas una web que hable por ti."
+
+Presenta tres ideas:
+
+- Diseño pensado para tu marca, no para una plantilla.
+- Experiencia diseñada para las personas que visitan tu web.
+- Una presencia digital alineada con los objetivos de tu negocio.
+
+Evita afirmaciones absolutas como "somos los mejores", "garantizamos resultados" o "multiplicamos tus ventas".
+
+Utiliza una composición visual sobria, con una gran frase tipográfica y una estructura metálica que atraviese parcialmente la escena.
+
+Introduce un destello naranja cuando aparece la última frase, seguido de una transición hacia la sección de contacto.
+
+---
+
+# 10. SECCIÓN 07 — LLAMADA A LA ACCIÓN
+
+Esta sección debe convertir el interés visual en una oportunidad comercial.
+
+El fondo vuelve a ser negro profundo.
+
+Una luz azul hielo recorre lentamente la escena, mientras una fuente naranja ilumina un elemento metálico central.
+
+Titular:
+
+"Tu próxima web
+puede empezar aquí."
+
+Texto:
+
+"Cuéntanos qué necesita tu negocio. Hablemos de tu idea y encontremos la mejor forma de convertirla en una experiencia digital."
+
+Botón principal:
+
+"Hablemos por WhatsApp"
+
+Botón secundario:
+
+"Ver proyectos"
+
+El botón principal debe ser visible, accesible y funcional.
+
+No utilices una animación excesiva que dificulte localizarlo.
+
+## Integración con WhatsApp
+
+Crea una configuración centralizada para el número comercial.
+
+Usa una variable claramente identificada:
+
+WHATSAPP_NUMBER = "TU_NUMERO_AQUI"
+
+El número debe configurarse en formato internacional, solo con dígitos, sin espacios, paréntesis ni signos.
+
+Construye enlaces con el formato oficial:
+
+https://wa.me/NUMERO?text=TEXTO_CODIFICADO
+
+Codifica correctamente el mensaje utilizando encodeURIComponent.
+
+Mensaje inicial sugerido:
+
+"Hola, vengo de la web de A tu manera digital y me gustaría recibir información sobre el diseño de una página web para mi negocio."
+
+Todos los botones de contacto deben usar la misma configuración.
+
+No inventes un número telefónico.
+
+Si el número aún no está configurado, muestra una advertencia clara en el entorno de desarrollo y evita publicar enlaces de WhatsApp rotos.
+
+---
+
+# 11. FOOTER
+
+Crea un cierre minimalista con:
+
+- Logotipo tipográfico de A tu manera digital.
+- Una frase breve: "Tu negocio, a tu manera. Tu web, a otro nivel."
+- Enlace a proyectos.
+- Enlace a servicios.
+- Contacto por WhatsApp.
+- Año actual calculado automáticamente.
+- Enlaces a redes sociales únicamente cuando se proporcionen sus URLs.
+- Enlace a política de privacidad únicamente cuando exista una página real para ello.
+
+El footer debe integrarse con la estética oscura y la iluminación del resto de la página.
+
+Evita llenar el cierre de columnas innecesarias.
+
+---
+
+# 12. NAVEGACIÓN
+
+Crea un menú superior elegante, minimalista y funcional.
+
+Incluye:
+
+- Marca.
+- Servicios.
+- Proyectos.
+- Proceso.
+- Contacto.
+
+El menú puede comenzar transparente sobre el hero y adquirir un fondo negro translúcido con desenfoque cuando el usuario avanza por la página.
+
+El desenfoque debe utilizarse con moderación y contar con una alternativa compatible cuando sea necesario.
+
+La navegación debe ser accesible mediante teclado, mantener un contraste suficiente y mostrar estados de foco visibles.
+
+En móvil, utiliza un menú compacto con un botón accesible y una transición discreta.
+
+El menú móvil debe cerrarse después de seleccionar una sección.
+
+No hagas que el menú ocupe demasiado espacio vertical ni que interfiera con el contenido.
+
+---
+
+# 13. SISTEMA DE ANIMACIÓN
+
+Las animaciones son parte esencial de la identidad, no un adorno añadido al final.
+
+Utiliza una arquitectura coherente.
+
+## Tecnologías preferidas
+
+- React.
+- TypeScript.
+- Vite, si es compatible con el entorno de creación.
+- CSS moderno.
+- GSAP y ScrollTrigger para secuencias narrativas complejas.
+- Three.js o React Three Fiber para escenas 3D cuando aporten valor real.
+- SVG para líneas, máscaras y elementos vectoriales.
+- CSS transforms y opacity para interacciones ligeras.
+- IntersectionObserver para revelar elementos sencillos cuando no sea necesario GSAP.
+
+No añadas todas las bibliotecas por obligación. Comprueba la compatibilidad con el entorno y utiliza la solución más sencilla que consiga el resultado deseado.
+
+No simules un sistema de animación avanzado si solo vas a producir una serie de apariciones básicas.
+
+## Comportamiento por scroll
+
+Implementa al menos:
+
+1. Entrada cinematográfica del hero.
+2. Transformación del elemento principal durante la salida del hero.
+3. Transición entre escenas.
+4. Revelado tipográfico progresivo.
+5. Animaciones de profundidad y parallax.
+6. Aparición editorial de los servicios.
+7. Interacciones sutiles en el portafolio.
+8. Activación de las etapas del proceso.
+9. Transición visual hacia el contacto.
+10. Animaciones discretas de botones y navegación.
+
+Cada efecto debe tener un propósito.
+
+Evita que todo se mueva simultáneamente.
+
+## Reglas de calidad
+
+- Utiliza easing refinado.
+- Evita movimientos bruscos.
+- Evita parpadeos.
+- Evita el scroll-jacking.
+- Evita las transiciones excesivamente lentas.
+- Evita bucles de animación que consuman recursos innecesariamente.
+- Evita cambios de tamaño que provoquen saltos de layout.
+- Limpia correctamente los listeners y las instancias de ScrollTrigger al desmontar componentes.
+- Respeta prefers-reduced-motion.
+- Desactiva o simplifica las animaciones que no funcionen bien en dispositivos táctiles.
+- Evita efectos que interfieran con la selección de texto, el teclado o los lectores de pantalla.
+
+---
+
+# 14. IMPLEMENTACIÓN 3D E ILUMINACIÓN
+
+La escena tridimensional principal debe tener una calidad visual superior a la de los elementos secundarios.
+
+Si implementas Three.js:
+
+- Utiliza geometrías optimizadas.
+- Controla la cantidad de polígonos.
+- Evita materiales y luces innecesarios.
+- Utiliza materiales metálicos con una iluminación coherente.
+- Configura correctamente el color management.
+- Evita reflejos físicamente imposibles.
+- No utilices una luz naranja y otra azul simplemente como dos manchas de color: deben iluminar realmente los volúmenes y superficies.
+- Utiliza reflejos de entorno cuando sea viable.
+- Controla el antialiasing y la resolución del renderizado.
+- Limita la densidad de píxeles cuando sea necesario.
+- Pausa las animaciones cuando la escena no sea visible.
+- Implementa una alternativa estática si WebGL no está disponible.
+
+La escena debe parecer un objeto de una campaña publicitaria de producto de lujo.
+
+Si una imagen 3D renderizada produce un resultado más refinado y ligero que una escena en tiempo real, utiliza la imagen como base y añade movimiento mediante CSS.
+
+No construyas una escena compleja en tiempo real solo para demostrar capacidad técnica.
+
+## Destellos de luz
+
+Incorpora destellos inspirados en las referencias visuales:
+
+- Haces horizontales de luz azul hielo.
+- Reflejos naranja sobre bordes metálicos.
+- Brillos especulares que se desplazan por superficies.
+- Halos luminosos pequeños.
+- Gradientes de iluminación localizados.
+- Reflejos que responden sutilmente al movimiento del objeto.
+
+Utiliza pseudo-elementos, gradientes, filtros y composiciones de capas cuando sean suficientes.
+
+Evita el exceso de bloom, las grandes manchas saturadas y los efectos de lente artificiales en todas las secciones.
+
+Los destellos deben aparecer en momentos concretos para reforzar la narrativa.
+
+---
+
+# 15. DISEÑO RESPONSIVE
+
+La experiencia debe diseñarse para móvil desde el principio, sin limitarse a reducir el diseño de escritorio.
+
+## Escritorio
+
+- Composiciones cinematográficas amplias.
+- Escenas 3D completas.
+- Tipografía de gran formato.
+- Paralaje y profundidad.
+- Animaciones de scroll más elaboradas.
+- Portafolio con mockups grandes.
+
+## Tableta
+
+- Reducción de elementos decorativos.
+- Reorganización de las composiciones.
+- Escenas más ligeras.
+- Espaciado adaptado.
+- Interacciones compatibles con pantalla táctil.
+
+## Móvil
+
+- Hero contundente, sin textos cortados.
+- Titulares legibles y correctamente divididos.
+- Escultura 3D simplificada o render estático de alta calidad.
+- Animaciones cortas y ligeras.
+- Menú accesible.
+- Botones suficientemente grandes.
+- Portafolio adaptado a una sola columna o a una composición táctil.
+- Navegación sin hover obligatorio.
+- WhatsApp visible sin tapar contenido.
+- Respeto por las áreas seguras del dispositivo.
+- Ausencia de scroll horizontal accidental.
+
+No elimines toda la personalidad visual en móvil. Conserva el metal, los reflejos y los acentos de luz, pero reduce la complejidad técnica.
+
+No fijes el tamaño del texto o de las secciones a valores que funcionen únicamente en una resolución concreta.
+
+---
+
+# 16. RENDIMIENTO Y OPTIMIZACIÓN
+
+La página debe sentirse fluida y rápida.
+
+Objetivos:
+
+- LCP de 2,5 segundos o menos.
+- INP de 200 milisegundos o menos.
+- CLS de 0,1 o menos.
+
+Son objetivos de rendimiento, no resultados que deban declararse como conseguidos sin medición.
+
+Implementa:
+
+- Carga diferida de imágenes fuera de pantalla.
+- Priorización de la imagen o recurso principal del hero.
+- Imágenes comprimidas y servidas en formatos modernos cuando sea posible.
+- Dimensiones explícitas para imágenes y medios.
+- Lazy loading para escenas 3D secundarias.
+- Reducción de recursos JavaScript innecesarios.
+- División del código cuando aporte beneficios.
+- Fuentes optimizadas y un número limitado de familias tipográficas.
+- Evitar animaciones costosas de blur y box-shadow a gran escala.
+- Transformaciones y opacidad para movimientos sencillos.
+- Reducción de partículas y efectos en móviles.
+- Suspensión de animaciones fuera de pantalla.
+- Respeto por las preferencias de movimiento del usuario.
+
+No utilices vídeos de gran tamaño como fondos automáticos sin una razón clara.
+
+No cargues modelos 3D pesados antes de mostrar el contenido principal.
+
+No añadas dependencias innecesarias ni sustituyas soluciones sencillas por bibliotecas pesadas.
+
+---
+
+# 17. TIPOGRAFÍA
+
+Utiliza una combinación de máximo dos familias tipográficas principales.
+
+Dirección sugerida:
+
+- Una sans serif contemporánea, precisa y elegante para titulares.
+- Una sans serif muy legible para textos y navegación.
+
+Puedes considerar familias como Space Grotesk, Manrope, Inter o una alternativa equivalente disponible.
+
+La elección final debe responder a la identidad visual y no a una moda.
+
+Los titulares deben tener personalidad editorial.
+
+Utiliza tamaños fluidos con clamp(), alturas de línea cuidadosamente ajustadas y anchos de texto controlados.
+
+Evita:
+
+- Titulares gigantes sin jerarquía.
+- Textos secundarios excesivamente pequeños.
+- Tracking exagerado.
+- Bloques largos de texto centrados.
+- Mayúsculas en todos los elementos.
+- Texto gris con contraste insuficiente.
+
+La tipografía debe parecer diseñada para la composición, no colocada después de crearla.
+
+---
+
+# 18. EXPERIENCIA DE USUARIO Y CONVERSIÓN
+
+El propósito comercial es conseguir conversaciones con clientes potenciales.
+
+Por tanto:
+
+- Mantén visible una vía clara hacia WhatsApp.
+- Utiliza llamadas a la acción con textos concretos.
+- Evita múltiples botones compitiendo entre sí.
+- Facilita el acceso al portafolio.
+- Explica los servicios con claridad.
+- Reduce las fricciones para contactar.
+- Evita ventanas emergentes invasivas.
+- Evita chatbots ficticios.
+- Evita formularios que no envíen realmente los datos.
+- Evita botones que parezcan funcionales pero no tengan acción.
+
+El botón de WhatsApp puede tener un acento naranja en los momentos de conversión y un tratamiento más discreto en el resto de la página.
+
+No inventes testimonios, cifras de ventas, años de experiencia, número de clientes, certificaciones ni resultados.
+
+No afirmes que la empresa tiene clientes internacionales, un equipo grande o una trayectoria determinada si esos datos no se han proporcionado.
+
+---
+
+# 19. SEO, ACCESIBILIDAD Y CALIDAD TÉCNICA
+
+Implementa una estructura semántica correcta.
+
+Incluye:
+
+- Un único H1 principal.
+- Jerarquía de encabezados lógica.
+- Títulos y metadescripciones editables.
+- URLs descriptivas cuando existan páginas internas.
+- Open Graph básico.
+- Textos alternativos para imágenes relevantes.
+- Etiquetas accesibles para botones.
+- Navegación por teclado.
+- Estados de foco visibles.
+- Contraste adecuado.
+- Enlaces con nombres descriptivos.
+- Respeto por prefers-reduced-motion.
+- Idioma del documento configurado como español.
+- Contenido principal comprensible sin depender de animaciones.
+
+Utiliza HTML semántico.
+
+No añadas texto oculto para manipular los motores de búsqueda.
+
+No declares resultados SEO ni accesibilidad completa sin haber realizado comprobaciones.
+
+---
+
+# 20. ARQUITECTURA DEL PROYECTO
+
+Construye la aplicación de forma modular.
+
+Organiza el proyecto en componentes reutilizables, por ejemplo:
+
+- Navbar.
+- HeroScene.
+- IntroSection.
+- ServicesSection.
+- PortfolioSection.
+- ProcessSection.
+- DifferentiatorsSection.
+- ContactSection.
+- Footer.
+- WhatsAppButton.
+- ScrollProgress, únicamente si aporta valor.
+- componentes auxiliares para escenas y animaciones.
+
+Mantén la información de marca en una configuración centralizada.
+
+Mantén los proyectos reales en una estructura de datos independiente.
+
+Permite cambiar el nombre, las descripciones, los colores, el teléfono y los enlaces sin modificar múltiples archivos.
+
+Evita un único componente gigantesco con toda la aplicación.
+
+Evita duplicar lógica y crear abstracciones innecesarias.
+
+Usa TypeScript con tipos explícitos donde aporten claridad.
+
+Si el entorno proporciona una estructura de proyecto existente, inspecciónala y trabaja con ella en lugar de sustituirla arbitrariamente.
+
+---
+
+# 21. REGLAS PARA EVITAR RESULTADOS GENÉRICOS
+
+Estas reglas tienen prioridad sobre cualquier tendencia de diseño habitual:
+
+1. No utilices la estructura típica de agencia: hero dividido en dos columnas, tres tarjetas de servicios, una cuadrícula de logos y un footer genérico.
+2. No utilices gradientes morados como recurso automático.
+3. No llenes la página de iconos de librería sin una razón conceptual.
+4. No conviertas cada sección en una tarjeta con esquinas redondeadas.
+5. No repitas la misma animación en todas las secciones.
+6. No utilices emojis como iconos principales.
+7. No uses ilustraciones genéricas de inteligencia artificial.
+8. No coloques gráficos, dashboards o interfaces ficticias sin relación con el contenido.
+9. No inventes proyectos para llenar el portafolio.
+10. No añadas números estadísticos decorativos que parezcan resultados reales.
+11. No uses animaciones constantes en todos los elementos.
+12. No satures el fondo de partículas.
+13. No uses efectos de cristal en cada superficie.
+14. No hagas que todos los títulos tengan la misma composición.
+15. No confundas inmersión con dificultad de navegación.
+
+La diferenciación debe surgir de la composición, la iluminación, el ritmo, la tipografía, los materiales y la relación entre las escenas.
+
+La página debe ser reconocible incluso si se eliminan temporalmente sus efectos de animación.
+
+---
+
+# 22. PLAN DE EJECUCIÓN
+
+Trabaja en este orden:
+
+FASE 1 — Estructura:
+Define las secciones, la navegación, la arquitectura de componentes y el sistema de diseño.
+
+FASE 2 — Identidad visual:
+Construye la paleta, la tipografía, los materiales, los fondos y el tratamiento de iluminación.
+
+FASE 3 — Hero:
+Implementa la escena cinematográfica principal antes de desarrollar el resto de las secciones.
+
+FASE 4 — Narrativa:
+Conecta las secciones mediante las transiciones y animaciones vinculadas al scroll.
+
+FASE 5 — Contenido:
+Implementa los servicios, el portafolio real, el proceso y los puntos de conversión.
+
+FASE 6 — Funcionalidad:
+Verifica navegación, botones, enlaces, configuración de WhatsApp y comportamiento responsive.
+
+FASE 7 — Optimización:
+Revisa rendimiento, accesibilidad, estabilidad visual y compatibilidad móvil.
+
+FASE 8 — Validación:
+Ejecuta la aplicación, comprueba errores de compilación y corrige los problemas detectados.
+
+No te detengas después de crear el hero o una maqueta estática. Implementa la experiencia completa.
+
+---
+
+# 23. CRITERIOS DE ACEPTACIÓN
+
+Antes de considerar terminado el trabajo, verifica lo siguiente:
+
+- La página tiene una identidad visual consistente y claramente diferenciada.
+- El hero genera impacto desde el primer segundo.
+- La iluminación naranja y azul se integra con los materiales.
+- El scroll conecta las escenas de manera fluida.
+- Las animaciones tienen una función narrativa.
+- El portafolio solo contiene proyectos reales proporcionados.
+- Si no hay proyectos, se muestra un estado vacío profesional.
+- Todos los botones tienen acciones reales.
+- WhatsApp utiliza un número configurable y enlaces válidos.
+- La navegación funciona en escritorio y móvil.
+- No existe desbordamiento horizontal accidental.
+- La experiencia es accesible mediante teclado.
+- Se respeta la preferencia de movimiento reducido.
+- Las escenas pesadas tienen alternativas razonables.
+- No existen errores de consola o compilación conocidos sin resolver.
+- Los recursos se cargan de manera eficiente.
+- El contenido comercial es claro y no contiene afirmaciones inventadas.
+
+No afirmes que una comprobación ha sido superada si no la has ejecutado.
+
+---
+
+# 24. INSTRUCCIÓN FINAL
+
+Ahora construye la aplicación.
+
+Toma decisiones creativas con criterio. No me devuelvas una lista de recomendaciones, un wireframe vacío ni una explicación de cómo podría hacerse.
+
+Quiero ver una landing page funcional, completa y visualmente refinada.
+
+Prioriza este orden:
+
+1. Dirección artística excepcional.
+2. Hero cinematográfico.
+3. Narrativa de scroll coherente.
+4. Portafolio auténtico.
+5. Conversión a WhatsApp.
+6. Rendimiento y adaptación móvil.
+7. Accesibilidad y calidad técnica.
+
+Si debes elegir entre añadir diez efectos genéricos o ejecutar tres efectos extraordinariamente bien, elige la segunda opción.
+
+Si una tecnología no está disponible o resulta incompatible, implementa la alternativa más sólida posible y continúa con el resto de la experiencia.
+
+Si falta información comercial, utiliza una configuración editable y no inventes los datos.
+
+El resultado debe transmitir que A tu manera digital es un estudio creativo capaz de transformar una idea comercial en una experiencia digital de alta calidad.
+
+**No construyas una web que simplemente se vea moderna. Construye una experiencia que haga que el visitante quiera tener una web como esa.**
